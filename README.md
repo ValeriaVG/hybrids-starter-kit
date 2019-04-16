@@ -2,6 +2,10 @@
 
 Boilerplate for [Hybrids](https://hybrids.js.org)
 
+To create a new project with this boilerplate use
+```
+npx https://gist.github.com/ValeriaVG/cc9d8c76623abdc22a33bb66dc33675f my-hybrids-app
+```
 ## Commands
 
 ### Installation
