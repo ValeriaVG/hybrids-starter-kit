@@ -4,10 +4,16 @@ Boilerplate for [Hybrids](https://hybrids.js.org)
 
 ## Commands
 
-### Install
+### Installation
 
 ```
 yarn
+```
+
+### Tests
+
+```
+yarn test
 ```
 
 ### Start development server
